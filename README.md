@@ -1,6 +1,4 @@
 # Projeto CRUD com Spring
-<<<<<<< HEAD
-=======
 
 Este é um projeto de CRUD simples usando as ferramentas do Spring Framework no back-end, e no front-end não foi utilizando nenhum framework específico, portanto fiz tudo com HTML, CSS e JS puro, e para comunicação do front-end com o back-end eu utilizei a biblioteca Jquery com Ajax. Como banco de dados da aplicação eu utilizei o Postgresql. Para executar e testar o back-end foi usado um servidor local fornecido pelo apache tomcat.
 
@@ -32,4 +30,4 @@ Este é um projeto de CRUD simples usando as ferramentas do Spring Framework no 
 </table>
 
 link do site pronto: https://springboot-rest-api-sample-32.herokuapp.com/springboot-rest-api-sample
->>>>>>> 7037ef6fb9b22b81d31c9962836f3512c2857fc4
+
